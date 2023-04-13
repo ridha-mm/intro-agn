@@ -1,0 +1,10 @@
+blackbody, T=1e5 K
+luminosity total 38
+radius 18
+hden 5
+sphere
+#abundances primordial #for no abundances i.e. default solar abundances
+iterate
+#print last iteration
+save overview "solar.ovr" last
+save continuum "solar.con" units microns last

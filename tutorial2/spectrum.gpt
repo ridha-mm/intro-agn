@@ -1,0 +1,19 @@
+set term postscript portrait enhanced color
+set output "pn_spectrum"
+#set output "blr_spectrum"
+set size 4,1
+set key bottom left
+
+set pointsize 0.5
+set xlabel "wavelength [{/Symbol m}m]"
+set ylabel "flux"
+
+set xrange [1e-1:1e3]
+set log x
+set log y
+set style line 3 lt -1 lc rgb "dark-blue"
+set style line 2 lt 2 lc rgb "dark-green"
+
+plot 'pn.con' using 1:7 t'Solar abundances' with lines ls 3,\
+'pn2.con' using 1:7 t'Planetary abundances' with lines ls 2
+#plot 'blr.con' using 1:7 t'BLR'
