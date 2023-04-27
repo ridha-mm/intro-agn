@@ -1,3 +1,3 @@
-# Tutorial notebooks of the course "Introduction to AGNs" Spring 2023
+# intro-agn
 
 Instructor: Dragana Ilic, Isidora Jankov
