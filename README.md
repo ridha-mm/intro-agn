@@ -1,5 +1,4 @@
-# Tutorial notebooks for the course "Introduction to AGNs" Spring 2023
+# intro-agn
 
-Instructor: Dragana Ilic, Isidora Jankov
-
-Link to Isidora's notebooks: https://github.com/cefeida42/mass-agn
+Tutorial notebooks of the course "Introduction to AGNs" at the University of Belgrade in Spring 2023. 
+Instructors: Dragana Ilic, Isidora Jankov
