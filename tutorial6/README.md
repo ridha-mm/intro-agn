@@ -1,3 +1,5 @@
-# Photo reverberation mapping
+# Photo reverberation mapping (PRM)
 
-The tutorial notebooks are found under 'hw5/' [here](https://gp12.datalab.noirlab.edu/user/ridhamm/doc/tree/notebooks_20230428_113458/05_Contrib/TimeDomain/PhotoReverberationMappingAGN)
+This notebook was run in the Python 3 environment on [Astro Data Lab](https://datalab.noirlab.edu/). 
+
+The tutorial of PRM by Isidora Jankov can be found under 05_Contrib/TimeDomain/PhotoReverberationMapping.
