@@ -1,5 +1,5 @@
 SELECT TOP 30000
-s.plate, s.mjd, s.fiberid, s.z, g.subclass,
+s.plate, s.mjd, s.fiberid, s.class, g.subclass, s.z,
 l.h_alpha_flux, l.h_beta_flux, l.oiii_5007_flux, l.nii_6584_flux,
 l.oi_6300_flux, l.sii_6717_flux, l.sii_6731_flux,
 l.h_alpha_eqw, l.nii_6584_eqw
